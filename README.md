@@ -4,7 +4,7 @@ A collection of architectural decision records from the book Microservices Up & 
 OPM-
 
 ## Infrastructure
-INF-
+[INF-1: Infrastructure as code](https://github.com/implementing-microservices/ADRs/blob/master/INF1-infrastructure-as-code.md)
 
 ## Microservice Design
 MSD-
