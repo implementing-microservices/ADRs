@@ -1,4 +1,4 @@
-# MSD-2: Use PlantUML to Discover Interaction Patterns
+# MSD-5: Use PlantUML to Discover Interaction Patterns
 
 Date: 01-08-2020
 
