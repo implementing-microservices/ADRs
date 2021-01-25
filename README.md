@@ -16,6 +16,11 @@ A collection of architectural decision records from the book Microservices Up & 
 * [INF-5: Use Github for Code Management](INF5-Use-Github.md)
 * [INF-6: Host Microservices in AWS](INF6-Use-AWS.md)
 * [INF-7: One Repository Per Environment](INF7-One-Repo-Per-Env.md)
+* [INF-8: Use a Managed Kubernetes Service](INF8-Use-EKS.md)
+* [INF-9: Deploy Microservices Using a GitOps Deployment Tool](INF9-Use-GitOps-Tool.md)
+* [INF-10: Implement a Traefik Ingress Controller](INF10-Trafek-Ingress.md)
+* [INF-11: Use Shared and Managed Database Services](INF11-Use-Shared-Managed-DB.md)
+
 
 ## Microservice Design
 * [MSD-1: Use Standard Design Process](MSD-1-Use-Standard-Design-Process.md)
@@ -30,5 +35,11 @@ A collection of architectural decision records from the book Microservices Up & 
 * [MSD-10: Microservices Can Share Physical Database Clusters](MSD-10-Share-DB-Clusters.md)
 
 ## Microservice Engineering
+* [MSE-1: Avoid Microservices Calling Each Other Directly ](MSE1-Intra-MS-Comms.md)
+* [MSE-2: Use Redis to Implement the Reservations Database](MSE2-Redis-For-Reservations.md)
+* [MSE-3: Start Microservices with Reusable Templates](MSE3-Start-With-Templates.md)
+* [MSE-4: Starting Microservices from Reusable Templates](MSE4-Healthcheck-Template.md)
+* [MSE-5: Use Faux Git Submodules](MSE5-Faux-Git-Submodules.md)
+
 
 
