@@ -1,4 +1,4 @@
-# MSD-7: Colect Feedback on your Servcie Designs
+# MSD-7: Colect Feedback on your Service Designs
 
 Date: 01-08-2020
 
