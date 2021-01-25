@@ -15,6 +15,7 @@ A collection of architectural decision records from the book Microservices Up & 
 * [INF-4: Use Github Actions for CI/CD Pipelines](INF4-Github-Actions-CICD.md)
 * [INF-5: Use Github for Code Management](INF5-Use-Github.md)
 * [INF-6: Host Microservices in AWS](INF6-Use-AWS.md)
+* [INF-7: One Repository Per Environment](INF7-One-Repo-Per-Env.md)
 
 ## Microservice Design
 * [MSD-1: Use Standard Design Process](MSD-1-Use-Standard-Design-Process.md)
